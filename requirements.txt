@@ -31,6 +31,11 @@ json_repair
 json5
 loguru
 
+# added
+langchain-google-genai
+langchain-deepseek
+langchain_mistralai
+
 # uncomment for testing
 # pytest
 # pytest-asyncio
