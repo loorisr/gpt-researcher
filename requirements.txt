@@ -32,3 +32,7 @@ loguru
 # uncomment for testing
 # pytest
 # pytest-asyncio
+
+langchain-google-genai
+langchain_mistralai
+firecrawl-py
